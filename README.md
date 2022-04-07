@@ -1,5 +1,5 @@
 # MCF_NSM
-Minimum cost flow using network simplex method
+Minimum cost flow using network simplex method. 2018 for MSIM722.
 
 This is an old school project that I decided to upload for safe keeping.
 
